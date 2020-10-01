@@ -1,5 +1,6 @@
 # 1T_ejercicio_01
 Tutorial instalaciones
+
 Todos los pasos de instalación están en la carpeta "Doc"
 Para subir la carpeta al repositorio, tendremos que usar los siguientes comandos:
 git add .
